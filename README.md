@@ -48,8 +48,9 @@ Once the Upload button is clicked the other controls are disabled. In case you w
 <a href="assets/Signature Loader4.png"><img src="assets/Signature Loader4.png" width="200"></a>
 </div>
 
-### Using the link
-If you clicked **"Open GitHub Actions form"** you'll see the first screen below. ⚠️ Notice ⚠️ you'll need a GitHub account to start this workflow!
+### Using the link with Provider data
+We're now leaving the scope of this repo, and enter the scope and functionality of the [msword-properties-generator](https://github.com/johantre/msword-properties-generator) repo in the following sections.\
+If you clicked **"Open GitHub Actions form"** you'll see the first Provider workflow screen below. ⚠️ Notice ⚠️ you'll need a GitHub account to start this workflow!
 - Here you click the **"Run workflow"** button (which won't be available if you didn't log in).\
 You'll see the input screen (same as explained in [msword-properties-generator](https://github.com/johantre/msword-properties-generator) README.md).
 - On mobile, **long-press the signature field** at the bottom of the form, select **"Paste"** to paste your [Uguu](https://uguu.se/) link from your clipboard.
@@ -64,7 +65,8 @@ Not sure what to fill out there?  Check out the template document [Recht om te v
 </div>
 
 ### Using together with Customer data
-Above, we filled out the Provider data.  Below we'll fill out the Customer data and generate the goodies we're after.\
+Above, we filled out the Provider data.\
+For the sake of completeness of the workflow we'll enter the Customer data as well and generate the goodies we're after.\
 See [msword-properties-generator](https://github.com/johantre/msword-properties-generator) README.md for more info.
 
 Once the above workflow did run, your screen will look like the first screen below.\
