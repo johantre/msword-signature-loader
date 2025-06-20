@@ -56,7 +56,7 @@ You'll see the input screen (same as explained in [msword-properties-generator](
 - On mobile, **long-press the signature field** at the bottom of the form, select **"Paste"** to paste your [Uguu](https://uguu.se/) link from your clipboard.
 - Fill out the other Provider data fields.
 - Hit **"Run workflow"** at the bottom to persist your Provider data to the private repo.\
-Not sure what to fill out there?  Check out the template document [Recht om te vertegenwoordigen.docx](../../res/Recht om te vertegenwoordigen.docx) in this repo for some guidance. The fields are named so you know what data to fill out where. 
+Not sure what to fill out there?  Check out the template document [Recht om te vertegenwoordigen.docx](https://github.com/johantre/msword-properties-generator/tree/master/res) in this repo for some guidance. The fields are named so you know what data to fill out where. 
 <div style="display: flex; justify-content: space-between;">
 <a href="assets/Signature Loader5.png"><img src="assets/Signature Loader5.png" width="200"></a>
 <a href="assets/Signature Loader6.png"><img src="assets/Signature Loader6.png" width="200"></a>
