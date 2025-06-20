@@ -57,10 +57,10 @@ You'll see the input screen (same as explained in [msword-properties-generator](
 - Hit **"Run workflow"** at the bottom to persist your Provider data to the private repo.\
 Not sure what to fill out there?  Check out the template document [Recht om te vertegenwoordigen.docx](../../res/Recht om te vertegenwoordigen.docx) in this repo for some guidance. The fields are named so you know what data to fill out where. 
 <div style="display: flex; justify-content: space-between;">
-<a href="assets/Signature Loader5.png"><img src="assets/Signature Loader5.png" width="240"></a>
-<a href="assets/Signature Loader6.png"><img src="assets/Signature Loader6.png" width="240"></a>
-<a href="assets/Signature Loader7.png"><img src="assets/Signature Loader7.png" width="240"></a>
-<a href="assets/Signature Loader8.png"><img src="assets/Signature Loader8.png" width="240"></a>
+<a href="assets/Signature Loader5.png"><img src="assets/Signature Loader5.png" width="200"></a>
+<a href="assets/Signature Loader6.png"><img src="assets/Signature Loader6.png" width="200"></a>
+<a href="assets/Signature Loader7.png"><img src="assets/Signature Loader7.png" width="200"></a>
+<a href="assets/Signature Loader8.png"><img src="assets/Signature Loader8.png" width="200"></a>
 </div>
 
 ### Using together with Customer data
@@ -76,10 +76,10 @@ We'll need to run another workflow to generate the document pair with all the fi
 - Hit the **"Run workflow"** at the bottom.
 
 <div style="display: flex; justify-content: space-between;">
-<a href="assets/Usage1.png"><img src="assets/Usage1.png" width="240"></a>
-<a href="assets/Usage2.png"><img src="assets/Usage2.png" width="240"></a>
-<a href="assets/Usage3.png"><img src="assets/Usage3.png" width="240"></a>
-<a href="assets/Usage4.png"><img src="assets/Usage4.png" width="240"></a>
+<a href="assets/Usage1.png"><img src="assets/Usage1.png" width="200"></a>
+<a href="assets/Usage2.png"><img src="assets/Usage2.png" width="200"></a>
+<a href="assets/Usage3.png"><img src="assets/Usage3.png" width="200"></a>
+<a href="assets/Usage4.png"><img src="assets/Usage4.png" width="200"></a>
 </div>
 
 ### The result 
@@ -90,8 +90,8 @@ Below what'll be the result of using your Provider data, like the signature down
 - Lo and behold; opening up the .pdf shows the signature as provided in the first step in this README.md
 
 <div style="display: flex; justify-content: space-between;">
-<a href="assets/Signature Loader-GenerateSend1.png"><img src="assets/Signature Loader-GenerateSend1.png" width="240"></a>
-<a href="assets/Signature Loader-GenerateSend2.png"><img src="assets/Signature Loader-GenerateSend2.png" width="240"></a>
-<a href="assets/Signature Loader-GenerateSend3.png"><img src="assets/Signature Loader-GenerateSend3.png" width="240"></a>
-<a href="assets/Signature Loader-GenerateSend4.png"><img src="assets/Signature Loader-GenerateSend4.png" width="240"></a>
+<a href="assets/Signature Loader-GenerateSend1.png"><img src="assets/Signature Loader-GenerateSend1.png" width="200"></a>
+<a href="assets/Signature Loader-GenerateSend2.png"><img src="assets/Signature Loader-GenerateSend2.png" width="200"></a>
+<a href="assets/Signature Loader-GenerateSend3.png"><img src="assets/Signature Loader-GenerateSend3.png" width="200"></a>
+<a href="assets/Signature Loader-GenerateSend4.png"><img src="assets/Signature Loader-GenerateSend4.png" width="200"></a>
 </div>
