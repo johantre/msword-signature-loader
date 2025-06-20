@@ -42,10 +42,10 @@ Once the Upload button is clicked the other controls are disabled. In case you w
 - In case you copied something else and lost the download [Uguu](https://uguu.se/) link from your clipboard, you have a **"Copy link again"** button.
 - Click the **"GitHub Actions form"** button to start the workflow of filling out the Provider data, including copy pasting the [Uguu](https://uguu.se/) download link. 
 <div style="display: flex; justify-content: space-between;">
-<a href="assets/Signature Loader1.png"><img src="assets/Signature Loader1.png" width="205"></a>
-<a href="assets/Signature Loader2.png"><img src="assets/Signature Loader2.png" width="205"></a>
-<a href="assets/Signature Loader3.png"><img src="assets/Signature Loader3.png" width="205"></a>
-<a href="assets/Signature Loader4.png"><img src="assets/Signature Loader4.png" width="205"></a>
+<a href="assets/Signature Loader1.png"><img src="assets/Signature Loader1.png" width="200"></a>
+<a href="assets/Signature Loader2.png"><img src="assets/Signature Loader2.png" width="200"></a>
+<a href="assets/Signature Loader3.png"><img src="assets/Signature Loader3.png" width="200"></a>
+<a href="assets/Signature Loader4.png"><img src="assets/Signature Loader4.png" width="200"></a>
 </div>
 
 ### Using the link
