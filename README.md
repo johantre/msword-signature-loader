@@ -28,8 +28,7 @@ This helper repo is hosted through GitHub Pages. All you need is the link to get
 It can be used through desktop or mobile. Most practical is mobile, as this offers you the means of taking a snap and work with that directly, but desktop works as well.\
 Below is a step-by-step guide on mobile to illustrate.\
 💡The actual production link💡:  
-- **https://johantre.github.io/msword-signature-loader/** or 
-- **https://bimi.dreamlead.be/signature-loader/**
+- **https://johantre.github.io/msword-signature-loader/**
 
 ### Snap and adjust
 - On mobile, clicking the **"Snap Signature"** button opens up the camera app so you can take a snap of your signature.\
